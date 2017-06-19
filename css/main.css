@@ -1,0 +1,35 @@
+h1 {
+    color: #b3b3b3;
+    font-size: 38px;
+}
+.fondo1{
+    background: url("../images/section1.png") no-repeat 0px 0px;
+    min-height: 300px;
+}
+#page1 p {
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 130px;
+    padding-left: 20px;
+}
+
+#page2 h2,#page3 h2,#page4 h2,#page5 h2 {
+    font-size:40px;
+    color:#e9993c;
+}
+#page2 p,#page3 p,#page4 p,#page5 p {
+    color: #b4b4b4;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#page5{
+    background: #f5f5f5;
+}
+footer{
+    min-height: 250px;
+    background: #e9993c;
+}
+footer2{
+    background: #b3b3b3;
+    min-height: 50px;
+}
